@@ -1,2 +1,2 @@
 # To-Do-List
-To Do List using HTML , CSS &amp; javaScrip
+To Do List using HTML , CSS &amp; javaScript
